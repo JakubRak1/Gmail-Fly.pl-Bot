@@ -1,0 +1,4 @@
+venv
+.*
+logins
+__pycache__
